@@ -12,9 +12,9 @@ CORS(app)
 # =========================
 # 🔐 EMAIL CONFIGURATION
 # =========================
-SENDER_EMAIL = "prabuabinaya74@gmail.com"
-APP_PASSWORD = "qykjoxouxqqlroor"   # ⚠️ Replace with new app password
-RECEIVER_EMAIL = "abinayaprabu0602@gmail.com"
+SENDER_EMAIL = "xxx@gmail.com"
+APP_PASSWORD = "1234"   # 
+RECEIVER_EMAIL = "yyy@gmail.com"
 
 # Flag to prevent email spamming
 last_alert_sent = False
